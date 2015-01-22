@@ -24,6 +24,6 @@
 ;; (require 'prelude-web)
 (require 'prelude-xml)
 
-(require 'prelude-evil)
+; (require 'prelude-evil)
 (require 'prelude-helm)
 (require 'prelude-helm-everywhere)

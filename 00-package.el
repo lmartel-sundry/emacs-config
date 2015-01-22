@@ -2,9 +2,10 @@
 (setq package-list '(
                      color-theme-solarized
                      help+ help-fns+ help-mode+
-                     ;evil helm
+                     ;evil helm ;;; these come with prelude
                      smex ido-ubiquitous paredit find-file-in-project
                      4clojure clojure-mode
+                     enh-ruby-mode
                      markdown-mode
                      magit
                     ))
